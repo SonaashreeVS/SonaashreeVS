@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SonaashreeVS
-- 👀 I’m interested in Cloud computing,Quantum computing. W
+- 👀 I’m interested in Artificial Intelligence and ML Models
 - 🌱 I’m currently pursuing my undergrad course on Information Technology.
-- 💞️ I’m looking to collaborate on projects that is developed based with product based companies!!
+- 💞️ I’m looking to collaborate on projects, small or big! 
 - 📫 How to reach me - email- sonaashree08@gmail.com, linked in-https://www.linkedin.com/in/sonaa-shree-v-s-b58576290
 
 <!---
